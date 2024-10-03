@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Awais-Aslam
-- 👀 I’m interested in ... Android development
-- 🌱 I’m currently learning ... Android development
-- 💞️ I’m looking to collaborate on ... Android development
+- 👀 I’m interested in ... Flutter & Android development
+- 🌱 I’m currently learning ... Flutter & Android development
+- 💞️ I’m looking to collaborate on ... Flutter & Android development
 - 📫 How to reach me ... [Email] (aslamawais333@gmail.com)
 
 <!---
